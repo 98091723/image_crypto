@@ -1,2 +1,4 @@
-pycryptodome
-pillow
+
+    gradio >= 3.0
+    numpy
+    pillow
